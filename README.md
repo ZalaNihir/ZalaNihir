@@ -9,7 +9,7 @@ I've been working in this industry for the last 3 years.
 * 🌍  I'm based in Rajkot India
 * 🖥️  See my portfolio at [Portfolio](https://nihirzala.vercel.app/)
 * ✉️  You can contact me at [testnihir@gmail.com](mailto:testnihir@gmail.com)
-* 🚀  I'm currently working on [Country State City Open Source](http://https://github.com/ZalaNihir/csc)
+* 🚀  I'm currently working on [Country State City Open Source](https://github.com/ZalaNihir/csc)
 * 🧠  I'm learning Vue JS, Nuxt JS & Express JS.
 * 🤝  I'm open to collaborating on Any Laravel Projects.
 * ⚡  I am a friendly hacker.
