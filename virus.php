@@ -1,6 +1,5 @@
 яШяв<?php
 /* erkJso */
-
 class _yg
 {
     function __construct()
